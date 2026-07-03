@@ -39,6 +39,6 @@ This project was built to:
 - Demonstrate automation and cloud skills  
 
 ## 👨‍💻 Author
-**Sandeep Dev T**  
+**Sandeep Dev **  
 GitHub: https://github.com/sandeep-dev-T  
 Location: Coimbatore, India
